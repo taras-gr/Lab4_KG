@@ -29,8 +29,8 @@ namespace _3dsToXaml
 
         private void CreateScene()
         {
-            ModelBase tv = new ModelBase("tv");
-            this.FurnitureContainer.Children.Add(tv);
+            ModelBase figure = new ModelBase("figure");
+            this.FigureContainer.Children.Add(figure);
         }
 
     }

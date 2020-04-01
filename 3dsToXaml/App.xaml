@@ -5,10 +5,7 @@
     <Application.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
-                <ResourceDictionary Source="Models\sofa.xaml"/>
-                <ResourceDictionary Source="Models\table.xaml"/>
-                <ResourceDictionary Source="Models\tv.xaml"/>
-                <ResourceDictionary Source="Models\figureSolid.xaml"/>
+                <ResourceDictionary Source="Models\figure.xaml"/>
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
     </Application.Resources>
