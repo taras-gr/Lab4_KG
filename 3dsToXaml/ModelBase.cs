@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Windows;
+﻿using System.Windows;
 using System.Windows.Media.Media3D;
 using System.Diagnostics;
 
-namespace _3dsToXaml
+namespace Lab5
 {
     class ModelBase : UIElement3D
     {

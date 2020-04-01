@@ -1,4 +1,4 @@
-﻿<Window x:Class="_3dsToXaml.Window1"
+﻿<Window x:Class="Lab5.Window1"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:_3DTools="clr-namespace:_3DTools;assembly=3DTools"
